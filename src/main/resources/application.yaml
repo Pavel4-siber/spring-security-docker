@@ -1,0 +1,8 @@
+app:
+  secret:
+    key: "mysecretkey"
+  stored:
+    username: "admin"
+    password: "password"
+    authorities: "book.read, book.create"
+    jwt: "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUZXN0SldUIiwiaXNzIjoiaXZvcm9ubGluZSIsImF1dGhvcml0aWVzIjoiYm9vay5yZWFkLCBib29rLmRlbGV0ZSIsImp0aSI6IjEiLCJ1c2VybmFtZSI6ImFkbWluIn0.LAX7cnciyaPibHXSGpRMr1GrnAXHOn8YnqFU5rwdNhI"
